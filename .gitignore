@@ -5,8 +5,6 @@ javadocs/*
 .classpath
 .project
 logs/
-.gradle
-build
 
 # IntelliJ IDEA
 **/.idea
